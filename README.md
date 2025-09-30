@@ -11,5 +11,8 @@
 - Sistemas: Linux, Windows
 
 ## Contato
-- LinkedIn: www.linkedin.com/in/gustavo-borges-122423262
+- LinkedIn: www.linkedin.com/in/gustavoborgexs
+
+
+
 - Email: gb278175@gmail.com
